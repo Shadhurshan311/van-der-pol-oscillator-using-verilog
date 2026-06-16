@@ -383,12 +383,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### Areas for Contribution
 
-- 🔄 Additional numerical integration methods (RK4, Adams-Bashforth)
-- ⚡ Performance optimizations
-- 📊 More visualization options
-- 🧪 Extended test coverage
-- 📖 Documentation improvements
-- 🔧 Support for more FPGA platforms
+-  Additional numerical integration methods (RK4, Adams-Bashforth)
+-  Performance optimizations
+-  More visualization options
+-  Extended test coverage
+-  Documentation improvements
+-  Support for more FPGA platforms
 
 ---
 
@@ -426,19 +426,9 @@ copies or substantial portions of the Software.
 ## 🙏 Acknowledgments
 
 - University of Peradeniya - Faculty of Engineering
-- EE587 Digital Systems Design and Synthesis Course
+- EE587: Digital Systems Design and Synthesis
 - Van der Pol's original work on non-linear oscillations
 - Open-source HDL community
-
----
-
-## 📞 Support
-
-If you have any questions or issues:
-
-1. Check the [Issues](https://github.com/Shadhurshan311/van-der-pol-oscillator-using-verilog/issues) page
-2. Read the [PLOTTING_GUIDE.md](docs/PLOTTING_GUIDE.md)
-3. Open a new issue with detailed description
 
 ---
 
@@ -447,13 +437,3 @@ If you have any questions or issues:
 If you find this project useful, please consider giving it a star! ⭐
 
 ---
-
-<div align="center">
-
-**Made with ❤️ for Digital Design and FPGA Community**
-
-[Report Bug](https://github.com/yourusername/van-der-pol-oscillator-using-verilog/issues) · 
-[Request Feature](https://github.com/yourusername/van-der-pol-oscillator-using-verilog/issues) · 
-[Documentation](docs/)
-
-</div>
